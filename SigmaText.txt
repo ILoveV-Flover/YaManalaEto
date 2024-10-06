@@ -1,1 +1,1 @@
-
+print("Hatsune Miku dayo")
